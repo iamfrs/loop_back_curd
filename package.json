@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@loopback/boot": "^6.1.5",
+    "@loopback/repository": "^6.1.5",
+    "@loopback/rest": "^13.1.5",
+    "mysql2": "^3.9.1",
+    "sequelize": "^6.36.0",
+    "@loopback/core": "^4.5.0"
+
+  },
+  "devDependencies": {
+    "@loopback/cli": "^5.2.4"
+  }
+}
